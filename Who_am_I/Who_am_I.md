@@ -1,9 +1,3 @@
----
-title: "Welcome to Jekyll!"
-date: 2020-07-14 10:39
-categories: jekyll update
----
-
 # 2017
 **05 전역**
 **09~ KUDOS-V 활동 시작**
