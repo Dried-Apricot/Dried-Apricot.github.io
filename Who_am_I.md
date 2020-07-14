@@ -1,6 +1,7 @@
 ---
-title: WHO AM I?
+title: "WHO AM I?""
 ---
+
 # 2017
 **05 전역**
 **09~ KUDOS-V 활동 시작**
