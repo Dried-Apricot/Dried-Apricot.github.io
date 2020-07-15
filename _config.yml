@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 remote_theme           : "mmistakes/minimal-mistakes"
 include: ["_pages"]
 
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Peaceful"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
