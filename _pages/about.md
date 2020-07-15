@@ -1,6 +1,6 @@
 ---
 title:	"WHO AM I?"
-permalink: /about
+permalink: /about/
 layout: pages
 ---
 
