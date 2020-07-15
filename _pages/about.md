@@ -1,7 +1,6 @@
 ---
 title:	"WHO AM I?"
 permalink: /awesome
-layout:    page
 ---
 
 # 2017
