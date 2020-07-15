@@ -1,6 +1,7 @@
 ---
 title:	"WHO AM I?"
-permalink: /awesome
+permalink: /about
+layout: pages
 ---
 
 # 2017
