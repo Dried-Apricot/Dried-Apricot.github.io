@@ -1,7 +1,6 @@
 ---
 title:	"WHO AM I?"
 permalink: /about/
-layout: page
 ---
 
 # 2017
