@@ -5,7 +5,7 @@ permalink: /about/
 
 # 2017
 **05**
-This  pushed by git bash
+한글이 gitbash로 잘 commit push 되는지 확인해보겠습니다.
 **09~**
 - - -
 # 2018
