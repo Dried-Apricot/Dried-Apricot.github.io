@@ -6,6 +6,7 @@ permalink: /about/
 # 2017
 **05**
 한글이 gitbash로 잘 commit push 되는지 확인해보겠습니다.
+그런데 해결이 안 되네ㅛ
 **09~**
 - - -
 # 2018
