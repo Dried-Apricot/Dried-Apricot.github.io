@@ -5,7 +5,7 @@ permalink: /about/
 
 # 2017
 **05**
-이것은 한글이다.
+This  pushed by git bash
 **09~**
 - - -
 # 2018
