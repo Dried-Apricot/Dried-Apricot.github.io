@@ -16,6 +16,8 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 remote_theme           : "mmistakes/minimal-mistakes"
+include: ["_pages"]
+
 locale                   : "en-US"
 title                    : "Peaceful"
 title_separator          : "-"
@@ -143,7 +145,7 @@ footer:
 
 
 # Reading Files
-include:["_pages"]
+include:
   - .htaccess
   - _pages
 exclude:
