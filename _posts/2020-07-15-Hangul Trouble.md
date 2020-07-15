@@ -10,14 +10,14 @@ I tried what I can imagine but It's still in vague.
 
 'Commit' is The most suspected.
 
-###Because I checked
+### Because I checked
 1. In local server using Jekyll is work well even with hangul posts.
 -> it means my jekyll config is okay.
 
 2. If I write a post directly in the github, It also works well.
 -> It means my GItpage is okay.
 
-###So,
+### So,
 I think, problem is the 'encoding' when I commit a file.
 But I've not been able to fix it.
 
