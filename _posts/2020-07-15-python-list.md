@@ -1,5 +1,5 @@
 ---
-title: "Today I Learn_2020-07-15"
+title: "List"
 date: 2020-07-15 11:23
 categories: python3 algorithm
 ---
@@ -21,6 +21,7 @@ List 뿐만 아니라 Sequences 에 적용 가능한 연산이다.
 
 s와 t는 같은 타입의 sequences이고,
 x 는 대수이다.
+
 |연산|결과|비고|
 |---|---|---|
 |`x in s`|만약 s 의 item이 x와 같으면 `True` 다르면 `False`|내용 검출해주는 연산 |
