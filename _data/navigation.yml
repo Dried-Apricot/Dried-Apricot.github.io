@@ -2,3 +2,7 @@
 main:
   - title: "About"
     url: https://ph-park.github.io/about/
+  - title: "Python Study"
+    url: /Python/
+  - title: "TIL"
+    url: /TIL/
