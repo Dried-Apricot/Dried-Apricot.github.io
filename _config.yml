@@ -99,13 +99,13 @@ analytics:
 author:
   name             : "PyungHwa Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Do a code"
-  location         : "Inchoen"
+  bio              : "Do a Code"
+  location         : "Inchoen, South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:peacepark.eng@email.com"
+       url: "mailto:peacepark.eng@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -117,7 +117,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/PH-PARK"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
